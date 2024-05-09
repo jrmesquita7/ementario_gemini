@@ -6,6 +6,8 @@ O prompt solicita a ementa sobre que será analisada e é feito uma análise com
 
 Com base nessas informações, o prompt avalia a similaridade entre as disciplinas e fornece uma estimativa da probabilidade de aproveitamento. Ele considera critérios como a equivalência de conteúdo, carga horária mínima requerida, entre outros fatores relevantes para a decisão de aproveitamento.
 
+Atualmente o modelo não está completo pois contas apenas informações do 1° e 2° periodo da grade curricular do curso de sistemas de informação, mas com o apoio poderá ser feito com a ementa de todos os cursos
+
 ## Funcionamento
 1. O usuário é solicitado a fornecer a ementa.
 3. O prompt analisa as informações fornecidas e avalia a similaridade entre as disciplinas.
@@ -24,6 +26,9 @@ Prompt: A análise indica que há uma alta similaridade entre as disciplinas. A 
 
 ```
 ![exemplo](https://github.com/jrmesquita7/ementario_gemini/assets/79610977/b7fa41d6-8ade-48dd-8b44-865651ffe12f)
+
+## Testes
+ Caso queira testar, tem um arquivo "exemplos-testes" que contém textos com ementas
 
 # Motivação
 Minha motivação para essa ideia surgiu da necessidade de simplificar e automatizar o processo de análise de probabilidade de aproveitamento de disciplina em um curso. Percebi que os coordenadores muitas vezes têm dificuldade devido a alta demanda e ocupa muito tempo analisar um por umnou seja, pode ser demorado e sujeito a erros. Com o objetivo de facilitar e tornar mais preciso esse processo, decidi testar o modelo gemini utilizando conhecimentos obtidos na imersão do Alura. Dessa forma, espero contribuir para uma tomada de decisão mais informada e eficiente 
