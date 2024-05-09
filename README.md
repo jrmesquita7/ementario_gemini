@@ -24,7 +24,7 @@ Com base nessas informações, o prompt avalia a similaridade entre as disciplin
 Prompt: Insira sua ementa:
 Usuário: Ementa: Introdução à Programação, Objetivos: Aprender lógica de programação, Carga Horária: 60 horas.
 Prompt: A análise indica que há uma alta similaridade entre as disciplinas. A probabilidade de aproveitamento é estimada em 90%.
-![image](https://github.com/jrmesquita7/ementario_gemini/assets/79610977/42c2b6b9-9b48-445e-93c4-de6190517ea6)
+![image](https://github.com/jrmesquita7/ementario_gemini/assets/exemplo.png)
 
 ```
 
