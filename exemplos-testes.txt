@@ -1,0 +1,110 @@
+UNIDADE 1 – INTRODUÇÃO
+1.1 - Plano Pedagógico do Curso de Sistemas de Informação
+1.2 - Profissões em Tecnologia da Informação.
+UNIDADE 2 - HISTÓRIA DA COMPUTAÇÃO
+2.1 – Evolução dos Sistemas Computacionais
+2.2 – Evolução das Áreas de Aplicação da Computação
+2.3 – A disseminação da cultura informática
+UNIDADE 3 – NOÇÕES DE HARDWARE
+3.1 Componentes Básicos
+3.2 Circuitos Digitais e Organização de Computadores
+3.3 Arquitetura de Computadores
+UNIDADE 4 – SOFTWARES BÁSICOS
+4.1 – Sistemas Operacionais
+4.2 – Linguagens e Compiladores
+UNIDADE 5 – SISTEMAS DE INFORMAÇÃO
+5.1 – Conceitos Básicos
+5.2 - Integração entre negócios, sistemas de informação e tecnologia da
+informação
+5.3 – Engenharia de Software
+5.4 – Banco de Dados
+UNIDADE 6 – SISTEMAS DE COMUNICAÇÃO
+6.1 – Redes de Computadores
+6.2 – Sistemas Distribuídos
+ PROGRAMA: (continuação)
+UNIDADE 7 – CONTEXTOS PROFISSIONAIS
+7.1 – Empresa e Organizações
+7.2 – Sociedade
+7.3 – O Sistema de Informação nas Organizações
+
+
+------------------------------------------------------------
+
+
+UNIDADE 1 - INTRODUÇÃO E CONCEITOS
+1.1 - Terminologia básica.
+1.2 - Noções de arquitetura e organização.
+1.3 - Noções básicas de sistemas operacionais.
+UNIDADE 2 – LÓGICA DA PROGRAMAÇÃO
+2.1 - Conceito de problemas e enunciados de problemas.
+2.2 - Conceito de algoritmo.
+2.3 - Conceito de programa.
+2.4 - Etapas da solução de um problema.
+UNIDADE 3 - METODOLOGIAS DE PROJETOS DE PROGRAMAS
+3.1 - Dado e resultado.
+3.2 - Instruções (comandos).
+3.3 - Métodos para representação de algoritmos.
+3.4 - Prática de solução de pequenos problemas.
+UNIDADE 4 – DADOS, EXPRESSÕES E ALGORITMOS SEQUENCIAIS
+4.1 – Tipos de dados.
+4.2 – Constantes e variáveis.
+4.3 - Expressões.
+4.4 – Atribuição.
+4.5 – Entrada e saída.
+(SEGUE)
+ PROGRAMA: (continuação)
+UNIDADE 5 – ALGORITMOS ESTRUTURADOS
+5.1 - Execução condicional.
+5.2 – Estruturas de repetição.
+5.3 – Contadores e acumuladores.
+UNIDADE 6 – DADOS ESTRUTURADOS
+6.1 - Variáveis compostas homogêneas.
+ 6.1.1 - Unidimensionais.
+ 6.1.2 - Multidimensionais.
+6.2 - Variáveis compostas heterogêneas.
+6.3 - Ponteiros e estruturas dinâmicas.
+UNIDADE 7 - MODULARIZAÇÃO
+7.1 – Subprogramas.
+7.2 - Argumentos.
+7.3 - Recursividade.
+
+
+---------------------------------------------------------
+
+UNIDADE 1 - ESTRUTURAS LINEARES E ENCADEADAS
+1.1 - Abstração de dados.
+1.2 - Estrutura básica.
+ 1.2.1 - Listas lineares.
+ 1.2.2 - Conceituação e tipos.
+ 1.2.3 - Manipulação de pilhas, filas e deques.
+ 1.2.4 - Listas duplamente encadeadas.
+1.3 - Matrizes.
+ 1.3.1 - Matrizes de "n" dimensões.
+ 1.3.2 - Matrizes especiais.
+ 1.3.3 - Matrizes esparsas.
+1.4 - Árvores.
+ 1.4.1 - Conceituação.
+ 1.4.2 - Árvores binárias.
+ 1.4.3 - Formas de percurso.
+ 1.4.4 - Árvores binárias de busca.
+ 1.4.5 - Árvores equilibradas AVL.
+ 1.4.6 - Filas de prioridade.
+UNIDADE 2 - PESQUISA EM TABELA
+2.1 - Pesquisa seqüencial.
+ 2.1.1 - Tabelas não ordenadas.
+ 2.1.2 - Tabelas ordenadas.
+2.2 - Pesquisa binária.
+2.3 - Pesquisa por cálculo de endereço.
+ 2.3.1 - Conceituação.
+ 2.3.2 - Técnicas de tratamento de sinônimos.
+ 2.3.3 - Funções de espalhamento.
+(SEGUE)
+ PROGRAMA: (continuação)
+UNIDADE 3 - GRAFOS
+3.1 - Conceitos e definições.
+3.2 - Representação física.
+3.3 - Algoritmos de caminhamentos.
+3.4 - Caminhos entre vértices.
+3.5 - Caminho de menor custo.
+3.6 - Árvore geradora; árvore mínima.
+3.7 - Análise de grafos. 

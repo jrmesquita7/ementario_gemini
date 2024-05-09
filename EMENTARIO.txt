@@ -1,0 +1,412 @@
+1° Período {
+
+DISCIPLINA: TECNOLOGIA E SOCIEDADE {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I – A ciência da sociedade e o mundo do trabalho (14h)
+1.1 A construção da tecnociência e sua apropriação pelo capitalismo contemporâneo
+1.2 Sociologia da sociedade em rede e cibercultura: Manuell Castells e Pierre Lévy
+1.3 A teoria crítica da tecnologia
+1.4 A sociologia digital
+UNIDADE II – Tecnologia, desigualdade e cultura (14h)
+2.1 Desigualdade social e desigualdade/inclusão digital
+2.2 Afro-brasileiros e tecnologia (racismo e algoritmo)
+2.3 Povos indígenas e tecnologia
+UNIDADE III – Tecnologia, trabalho e política (12h)
+3.1 O trabalho digital no Brasil
+3.2 Tecnologia e política no Brasil
+3.3 Colonialismo digital
+
+}
+
+
+DISCIPLINA: LEITURA E PRODUÇÃO TEXTUAL APLICADA{
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I - Leitura: 10 h
+1.1 A importância da leitura no ambiente acadêmico;
+1.2 A leitura como produção de sentido;
+1.3 Níveis de leitura;
+1.4 Leitura em uma perspectiva interativa-reflexiva;
+1.5 Estratégias de leitura
+UNIDADE II –Gêneros Textuais e Tipologias: 8h
+2.1 Gêneros textuais;
+2.2 Tipos textuais: Narração, Descrição, Exposição, Argumentação e Injunção
+UNIDADE III - Texto e textualidade: 10h
+3.1 Texto: conceito, estrutura e desenvolvimento de parágrafo;
+3.2 Fatores de textualidade: linguísticos e pragmáticos;
+3.3 Mecanismos de textualização.
+UNIDADE IV – O TEXTO ACADÊMICO: 12h
+4.1 Fichamento;
+4.2 Resumo;
+4.3 Resenha;
+4.4 Relatório
+4.5 Artigo Científico
+4.6 Noções básicas da ABNT para a construção de textos acadêmicos
+
+}
+
+
+DISCIPLINA: LÓGICA COMPUTACIONAL{
+
+CONTEÚDO PROGRAMÁTICO 
+
+UNIDADE I – Introdução à Lógica (10h)
+1.1 Conceitos preliminares
+1.2 Proposições simples e composta
+1.3 Conectivos lógicos
+UNIDADE II – Lógica Proposicional (20h)
+2.1 Tabelas-verdades
+2.2 Tautologias, contradições e contingências
+2.3 Equivalência lógica
+2.4 Implicação lógica
+UNIDADE III – Álgebra Booleana (10h)
+3.1 Conceitos preliminares
+3.2 Teoremas da Álgebra de Boole
+3.3 Portas Lógicas
+UNIDADE IV – Regras de Inferência (10h)
+4.1 Processo de Inferência
+4.2 Argumentos válidos
+4.3 Regras de inferência
+UNIDADE V – Linguagem e Semântica (15h)
+5.1 Conceitos preliminares
+5.2 Sintaxe e semântica
+5.3 Linguagens interpretadas
+5.4 Linguagens compiladas
+UNIDADE VI – Lógica de Predicados (15h)
+6.1 Quantificação universal
+6.2 Quantificação existencial
+6.3 Cálculo de predicados
+6.4 Negação de quantificadores	
+
+}
+
+DISCIPLINA: EMPREENDEDORISMO E INOVAÇÃO {
+
+CONTEÚDO PROGRAMÁTICO
+UNIDADE I: Empreendedorismo
+1.1 Comportamento Empreendedor e Inovação
+1.2 Análise Histórica: origens, evolução e realidade empresarial contemporânea
+1.3 Empreendedorismo e o empreendedor: conceitos e definições
+1.4 Definindo características e habilidades empreendedoras
+1.5 Empreendedorismo startup e Intraempreendedorismo
+UNIDADE II: Plano de Negócios
+2.1 Estratégias e oportunidades de negócios;
+2.2 Definição e técnica de utilização: o que é e para que serve;
+2.3 Planejamento e execução: planos de marketing, financeiro e operacional.
+2.4 Modelo Canvas – conceito e aplicação dos princípios
+UNIDADE III: Inovação
+3.1 Inovação na estratégia empresarial
+3.1.1 Barreiras técnicas
+3.1.2 Propriedade Intelectual e Transferência de Tecnologia
+3.1.3 Formas de Financiamento – Crédito, Investimentos, Subvenções
+3.1.4 Indicadores de Inovação
+3.1.5 Design Thinking
+3.1.6 Processo de Geração de Ideias
+3.1.7 Ferramentas de Apoio
+3.1.8 Parque Tecnológicos, Incubadoras, Vale do Silício
+
+}
+
+DISCIPLINA: FUNDAMENTOS DA COMPUTAÇÃO {
+
+CONTEÚDO PROGRAMÁTICO
+UNIDADE I – INTRODUÇÃO À ARQUITETURA DE COMPUTADORES (10H)
+1.1 História do início da Computação e Geração dos computadores.
+1.2 Conceitos, componentes, Arquitetura de Von Neumann
+1.5 Circuitos Integrados
+1.6 Componentes dos computadores
+1.7 Unidade controladora
+1.8 Notação posicional
+1.9 Cálculos com bases binárias
+UNIDADE II – NOTAÇÕES E CONVERSÕES (10H)
+2.1 Notações e conversões (qualquer base para decimal e base 10 para qualquer base B)
+2.2 Aritmética não-decimal
+2.3 Grandezas computacionais
+2.4 Medidas de desempenho
+2.5 Representação de dados
+2.6 Tipo numérico
+2.7 Hierarquia da memória
+UNIDADE III – CONCEITOS DE LINGUAGEM DE PROGRAMAÇÃO (10h)
+3.1 Conceito de Linguagem de Programação
+3.2 Domínios de Programação
+3.3 Critérios para escolha da Linguagem
+3.4 Sintaxe e semântica
+3.5 Abstração e modularização
+3.6 Valores e tipos de dados
+3.7 Tipos e aplicação de paradigmas de programação
+UNIDADE IV – TECNOLOGIA APLICADA A GESTÃO (10h)
+4.1 Contextualização de sistemas de informação
+4.2 Caracterização dos sistemas de informação
+4.3 Classificação dos sistemas de informação
+4.4 Segurança dos sistemas de informação e comércio eletrônico
+4.5 Desafios globais e legais dos sistemas de informação
+
+}
+
+
+DISCIPLINA: FUNDAMENTOS DA MATEMÁTICA {
+
+CONTEÚDO PROGRAMÁTICO
+UNIDADE I – Conjuntos (10h)
+1.1 Conceito e Operações
+1.2 Relações de Pertinência e Inclusão
+1.3 Relação Binária e Produto Cartesiano
+1.4 Diagramas de Venn e Resolução de problemas
+UNIDADE II – Funções (10h)
+2.1 Conceito e classificação
+2.2 Função Polinomial do 1º grau
+2.3 Função Polinomial do 2º grau
+UNIDADE III – Matrizes e Sistemas Lineares (20h)
+3.1 Conceito e Classificação de Matrizes
+3.2 Operações com Matrizes
+3.2.1 Adição e subtração
+3.2.2 Produto de um escalar por uma matriz
+3.2.3 Produto de matrizes
+3.3 Determinantes e Sistemas Lineares
+3.3.1 Determinante de 2ª e 3ª ordem
+3.3.2 Regra de Chió e Cofator
+3.3.3 Regra de Cramer
+3.3.4 Escalonamento de Sistemas Lineares
+
+}
+
+DISCIPLINA: MÉTODOS E TÉCNICAS DE PESQUISA{
+
+
+}
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I – CIÊNCIA, UNIVERSIDADE E PESQUISA (20H)
+1.1 Conceituação de Ciência.
+1.2 Tipos de Conhecimento.
+1.3 A liberdade da atividade intelectual e os princípios da pesquisa científica.
+1.4 Fundamentos teórico-metodológicos do conhecimento científico.
+FACULDADE SANTA TEREZINHA - CEST
+COORDENAÇÃO DO CURSO DE SISTEMAS DE INFORMAÇÃO
+PLANO DE ENSINO
+1.5 Sistematização dos Métodos e Técnicas de Pesquisa: Fichamento, Resumo e Resenha.
+1.6 A construção do saber científico e as questões éticas: o plágio acadêmico como um problema ético, jurídico
+e pedagógico.
+UNIDADE II – PESQUISA CIENTÍFICA E PROJETO DE PESQUISA (20H)
+2.1 Pesquisa Científica e suas bases legais no Brasil.
+2.2 Classificação dos Tipos de Pesquisa: pesquisa bibliográfica, pesquisa documental; pesquisa de campo e
+estudo de caso.
+2.3 Unidade de Informação: Normas da ABNT (Associação Brasileira de Normas Técnicas) e Manual de
+Padronização de Trabalhos Acadêmicos do CEST.
+2.4 Normalização e Apresentação Gráfica do Trabalho Técnico-Científico: elementos pré-textuais, textuais e pôstextuais.
+2.5 Projeto de Pesquisa: Tema, Resumo, Justificativa, Problema, Objetivos (Geral e Específicos), Referencial
+Teórico, Metodologia, Cronograma e Referências.
+
+}
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2° Período {
+
+DISCIPLINA: LÍNGUA PORTUGUESA II {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I: COMPREENSÃO DA IMPORTÂNCIA DO ATO DE LER (10h)
+1.1 Leitura: tipos, níveis, finalidade e metodologia
+1.2 Leitura na Universidade: conscientização e a importância da linguagem acadêmica
+1.3 A leitura na construção do pensamento
+1.4 Diferentes modos de ler um texto
+1.5 Apresentação da Roda de Leitura: A Leitura como ferramenta indispensável na profissão. (Prática oral)
+UNIDADE II: METODOLOGIA DA ESCRITA – GÊNEROS ACADÊMICOS COMO PRÁTICAS ORAIS E
+ESCRITAS (20h)
+2.1 Gênero e tipologia textuais: definições, características e funcionalidades acadêmicas, gêneros acadêmicos:
+Resumo e resenha, ensaio, artigo científico, relatório científico, plano de ação
+2.2 Etapas de um artigo acadêmico: Introdução, revisão literária, metodologia, análise e discussão dos resultados
+2.3 Como compor o texto acadêmico: os mecanismos de textualização
+2.4 Textualidade: coerência e coesão para a redação de parágrafos
+2.5 Texto dissertativo: Organização, estilo, desenvolvimento da informação. O texto dissertativo expositivo e
+argumentativo
+FACULDADE SANTA TEREZINHA - CEST
+COORDENAÇÃO DO CURSO DE SISTEMA DE INFORMAÇÃO
+PLANO DE ENSINO
+
+UNIDADEIII: PRÁTICAS DE ELABORAÇÃO DE TEXTOS ACADÊMICOS (10h)
+3.1 Texto e Intertextualidade: implícita, explícita e produção de sentido
+3.2 A escrita em foco: o processo, aspecto formais, estética textual
+3.3 Redação Acadêmica: as várias formas de iniciar um parágrafo
+3.4 Elaboração de textos acadêmicos: Resumo, Resenha e Artigo acadêmico
+
+}
+
+DISCIPLINA: INGLÊS INSTRUMENTAL{
+
+CONTEÚDO PROGRAMÁTICO
+
+▪ Introducing Discourse Markers (I): Adding; Sequencing; Illustrating; Cause and Effect.
+▪ Interpersonal communication: Creating messages; Types of interpersonal communication; Development of the
+▪ Digital Cell Phone.
+▪ Impact of the Cell Phone; Cell Phone Standards.
+▪ Development of Electronic Mail; Instant Messaging
+▪ Introducing Discourse Markers (II): Comparing; Qualifying; Contrasting; Emphasizing.
+▪ Word Order: Adjectives and Adverbs.
+▪ Group Communication: Groups in the Digital World; Internet Forums; Chat Rooms.
+▪ Digital Conference Calls; Telecommuting; Small Private Networks.
+▪ Cyber Community: Emergence of new communities; Finding people with common interests.
+▪ Social networking on the internet; Issues surrounding Cyber Communities; Second life.
+▪ Mass communication: digital mass communication; New authors of mass communication; the web (structure of
+the internet).
+▪ Role of Web logs in mass communication; Use of Podcasts in mass communication; How to create a blog;
+▪ Creating and distributing a Podcast.
+▪ International communication; transporting the digital message (how voIP works); E-mail as the tool for
+international communication; Barriers to international communication; Local Area Network (LAN);.
+▪ The Web as the tool for international communication; English as the global digital language; Promoting the global
+village.
+▪ Concerns about digital communication; Vulnerability of information; Pishing for information (How pishing works).
+▪ Stopping Unsolicited e-mail; Blocking Span; Spamming and unwanted digital communication; Types of Span.
+▪ Information in the Future.
+
+}
+
+DISCIPLINA: CÁLCULO DIFERENCIAL E INTEGRAL {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I – LIMITES (20h)
+1.1 Introdução ao Cálculo: a noção intuitiva de limite
+1.2 O Teorema da unicidade e o Teorema do Confronto
+1.3 Cálculo de limites
+1.4 Limites laterais, limites no infinito e limites infinitos
+1.5 Noções de trigonometria
+UNIDADE II – DERIVADAS (20h)
+2.1 O conceito de derivadas
+2.2 Derivada das funções elementares
+2.3 Regras de derivação
+2.4 Derivada da função
+UNIDADE III – INTEGRAL (40h)
+3.1 Noções de Integração
+3.2 Técnicas de integração
+3.3 A integral definida
+3.4 Cálculo de integrais definidas
+
+}
+
+DISCIPLINA: GEOMETRIA ANALÍTICA E ÁLGEBRA LINEAR {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I – PLANO CARTESIANO (14h)
+1.1 Coordenadas geométricas e retas
+1.2 Distância entre dois pontos.
+1.3 Ponto médio de um segmento.
+1.4 Inclinação de uma reta ou coeficiente angular.
+1.5 Gráficos de algumas equações de segundo grau
+1.6 Construção de gráficos de cônicas.
+1.7 Definição de curvas planas paramétricas
+1.8 Uso de calculadora na construção de gráficos de equações em coordenadas polares
+UNIDADE II – SEÇÕES CÔNICAS (10h)
+2.1 Parábola
+2.2. Elipse
+2.3. Hipérbole
+UNIDADE III – VETORES E GEOMETRIA DO ESPAÇO (16 h)
+3.1 Sistema de coordenadas Tridimensionais
+3.2. Vetores
+3.3. Produto escalar
+3.4. Produto vetorial
+3.5. Retas
+3.6. Planos
+FACULDADE SANTA TEREZINHA - CEST
+COORDENAÇÃO DO CURSO DE SISTEMAS DE INFORMAÇÃO
+PLANO DE ENSINO
+UNIDADE IV – SISTEMAS LINEARES E MATRIZES (24h)
+4.1 Introdução aos sistemas lineares:
+4.2. Matrizes e Eliminação de Gauss
+4.3. Eliminação de Gauss-Jordan:
+4.4. Operações com matrizes
+4.5. Inversas de Matriz: Matriz Identidade
+UNIDADE V – AUTOVALORES E AUTOVETORES (16 h)
+5.1 Definição de autovalores e autovetores de uma matriz equação característica
+5.2. Diagonalização de Matrizes. Matrizes semelhantes;
+5.3. Matrizes simétricas e Autovetores Ortogonais. Matriz ortogonal e suas propriedades
+
+}
+
+DISCIPLINA: ALGORITMOS E LINGUAGEM DE PROGRAMAÇÃO {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I - INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO (14h)
+1.1 Algoritmos - Conceitos de Algoritmos e Formas de Representação.
+1.2 Algoritmos - Tipos de Dados, Variáveis e Operadores lógicos e relacionais.
+UNIDADE II – ALGORITMOS E PSEUDOCÓDIGO (18h)
+2.1 Portugol, Diagrama de Blocos e Teste de Mesa: Comando de Atribuição.
+2.2 Comando de Entrada. Comando de Saída com Portugol, Uso de variáveis
+2.3 Expressões aritméticas com Portugol.
+2.4 Estruturas de controle: Estrutura Sequencial, Estruturas de Decisão ou Seleção, Estruturas de Repetição ou
+Iteração
+UNIDADE III - LINGUAGEM C (16h)
+3.1 Introdução a Linguagem C.
+3.2 Estrutura Condicional Simples. Estrutura Condicional Composta.
+3.3 Estrutura de Seleção e Escolha Múltipla
+UNIDADE IV – ESTRUTURAS DE CONTROLE E ESTRUTURAS DE ARMAZENAMENTO NA LINGUAGEM C
+(16h)
+4.1 Estrutura de Repetição com teste no início
+4.2 Estrutura de Repetição com teste no final
+4.3 Estruturas de Armazenamento: Vetores
+4.4 Ponteiros
+FACULDADE SANTA TEREZINHA - CEST
+COORDENAÇÃO DO CURSO DE SISTEMAS DE INFORMAÇÃO
+PLANO DE ENSINO
+UNIDADE V – PROCEDIMENTOS E FUNÇÕES (16h)
+5.1 Strings em C
+5.2 Estruturas de Dados: Structs
+5.3 Funções e Modularização
+5.4 Tipos de Funções e Passagem de Parâmetros
+
+}
+
+
+DISCIPLINA: MÉTODOS E TÉCNICAS DE PESQUISA II  {
+
+CONTEÚDO PROGRAMÁTICO
+
+UNIDADE I – A PRODUÇÃO DO CONHECIMENTO CIENTÍFICO (12h)
+1.1 Os níveis de conhecimento e a postura científica
+1.2 A construção do saber científico e as questões éticas
+1.3 Projeto de pesquisa: o início do trabalho científico
+UNIDADE II – A PESQUISA CIENTÍFICA: CLASSIFICAÇÕES E PROCEDIMENTOS (10h)
+2.1 Quanto aos objetivos e aos procedimentos
+2.2 Quanto à abordagem de análise e ao local
+UNIDADE III – O PROJETO DE PESQUISA (18h)
+3.1 ABNT NBR 15287: apresentação do projeto de pesquisa
+3.2 Estrutura do Projeto de Pesquisa: Delimitação do Tema, Justificativa, Problema, Objetivos Geral e
+Específicos, Hipóteses, Revisão de Literatura, Material e Métodos, Cronograma, Orçamento e Referências.
+3.3 Elaboração do anteprojeto de pesquisa
+
+}
+
+DISCIPLINA: ORGANIZAÇÃO, SISTEMAS E MÉTODOS {
+
+CONTEÚDO PROGRAMÁTICO
+UNIIDADE I: Estrutura das Organizações e Instrumentos de Gestão (20h)
+1.1.Organização: conceito e classificação: formal, informal
+1.2.Teoria de Sistemas
+1.3.Níveis Hierárquicos: departamentalização, centralização, descentralização, amplitude
+1.4.Estudos de funções: funções, atividades e tarefas
+1.5. Levantamento de cargos, funções e procedimentos: conceitos, técnicas, finalidade
+1.6.Estudos de processos: conceitos, estratégias, finalidade
+1.7.Fluxograma: gestão de processos, de papéis e serviços, modelos de fluxogramas, objetivos
+UNIDADE II: Gestão do Trabalho (10h)
+2.1 Racionalização de procedimentos: eficiência do trabalho, quadro de distribuição do trabalho (QDT)
+2.2 Análise de pessoal e descrição de cargos e funções
+2.3 Análise de atividades: conexões possíveis de tarefas
+2.4 Formulários: metodologia de elaboração, levantamento e análise das necessidades.
+UNIDADE III: Gestão do Espaço Físico (10h)
+3.1 Condições de locais de trabalho: espaço, ergonomia
+3.2 Equipamentos: levantamento das necessidades
+3.3 Sistemas de arquivo
+
+}
+
+
+}
+
